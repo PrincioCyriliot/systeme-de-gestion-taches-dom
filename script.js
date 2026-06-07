@@ -1,5 +1,5 @@
 /**
- * PROJET JAVASCRIPT - 2ÈME ANNÉE MDI
+ * PROJET JAVASCRIPT - 2ÈME ANNÉE ESIIA(Electronique Systemes Informatiques et Intelligence Artificielle)
  * Gestionnaire de données avec persistance LocalStorage
  */
 
